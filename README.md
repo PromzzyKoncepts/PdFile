@@ -1,4 +1,4 @@
-#PDFILE
+# PDFILE
 > A web app that lets users edit, higlight, annotate and make changes to their uploaded pdf documents built by Promise Okechukwu
 
 ## Getting Started
@@ -8,11 +8,11 @@ First, install all dependencies:
 ```bash
 npm install
 # or
-yarn dev
+yarn install
 # or
-pnpm dev
+pnpm install
 # or
-bun dev
+bun install
 ```
 First, run the development server:
 
